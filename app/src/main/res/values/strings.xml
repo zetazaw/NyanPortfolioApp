@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nyan Portfolio App</string>
+    <string name="main_header">My Nanodegree Apps</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="stock_hawk">Stock Hawk</string>
+    <string name="build_it_bigger">Build it Bigger</string>
+    <string name="make_your_app_material">Make Your App Material</string>
+    <string name="go_ubiquitous">Go Ubiquitous</string>
+    <string name="capstone_my_own">Capstone My Own</string>
+    <string name="main_toast_prefix">This button will launch %1$s app!</string>
+</resources>
